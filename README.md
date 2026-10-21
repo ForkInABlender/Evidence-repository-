@@ -4,3 +4,5 @@ to recover from .jpg.jpg or .jpg on .zip.(numberic go here),
 
 to turn them into image file backed extensions so it uploads as 5mb slices of .zip, 
    use `` for f in (zipfilename go here).zip.*; do cp -- "$f" "$(awk -v f="$f" 'BEGIN{print f ".jpg"}')" && rm "$f"; done``
+
+   the current video evidence on this repository included evidence of dad trying to slander me online thinking he is being cute. it is now evidence standing against him. 

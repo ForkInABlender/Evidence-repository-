@@ -1,8 +1,3 @@
-to recover from .jpg.jpg or .jpg on .zip.(numberic go here),
-  use ``for f in *.zip.*.jpg*; do mv -- "$f" "$(awk -v f="$f" 'BEGIN{sub(/\.jpg(\.jpg)?$/, "", f); print f}')"; done`` to recover your files.
+This evidence locker is updated with all evidence of temujin9@t9productions.com pushing to slander, harass, defame, and quote me out of context while he's high and angry. Here's the Google document he's using to "record keep" "for the record" as "evidence later": https://docs.google.com/document/d/15LXtbQOtscxU9BGsXHThN9pfTOuNIS9qI-ToWvQpy4I/mobilebasic
 
-
-to turn them into image file backed extensions so it uploads as 5mb slices of .zip, 
-   use `` for f in (zipfilename go here).zip.*; do cp -- "$f" "$(awk -v f="$f" 'BEGIN{print f ".jpg"}')" && rm "$f"; done``
-
-   the current video evidence on this repository included evidence of dad trying to slander me online thinking he is being cute. it is now evidence standing against him. as well as other criminals committing to similar maleficence or worse.
+This repository will be updated as that google document temujin9@t9productions.com owns continues to illegally amend the document with more data he's taken out of context, not just of my communication but also what he's chosen to make up from December of 2025 into nov 23 2026. temujin9@t9productions.com does it while high out of anger to lie with "overly dramatic", "does it to be shitty", "trolling", "shitposting", "being a pugnateous asshole". He also has chosen to do such under the geist that he can keep talking his way out of arrest while committing this level of crime.

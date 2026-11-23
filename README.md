@@ -1,3 +1,6 @@
 This evidence locker is updated with all evidence of temujin9@t9productions.com pushing to slander, harass, defame, and quote me out of context while he's high and angry. Here's the Google document he's using to "record keep" "for the record" as "evidence later": https://docs.google.com/document/d/15LXtbQOtscxU9BGsXHThN9pfTOuNIS9qI-ToWvQpy4I/mobilebasic
 
 This repository will be updated as that google document temujin9@t9productions.com owns continues to illegally amend the document with more data he's taken out of context, not just of my communication but also what he's chosen to make up from December of 2025 into nov 23 2026. temujin9@t9productions.com does it while high out of anger to lie with "overly dramatic", "does it to be shitty", "trolling", "shitposting", "being a pugnateous asshole". He also has chosen to do such under the geist that he can keep talking his way out of arrest while committing this level of crime.
+
+
+The more temujin9@t9productions.com abuses all platforms to do such criminally and the longer he does this, the more their is to submit as evidence of him slandering. he does not do such to teach a lesson but does so just cuz he could as temujin9@t9productions.com; the dude is otherwise blocked by me on all platforms but insists on continuing to lie with "fuckaround find out"
